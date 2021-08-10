@@ -1,0 +1,23 @@
+.topbar {
+    float: left;
+    width: -webkit-fill-available;
+    background-color: grey;
+}
+
+.title{
+    margin-left: 10px;
+}
+
+.titlediv{
+    float: left;
+}
+
+.calendar{
+    float: right;
+    margin-top: 10px;
+    margin-right: 7%;
+}
+
+.DateRangePicker{
+    margin-left: 60%;
+}
